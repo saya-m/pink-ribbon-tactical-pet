@@ -1,6 +1,6 @@
 # Pink Ribbon Tactical Pet
 
-![Pink Ribbon Agent preview](assets/preview.gif)
+<img src="assets/preview.gif" alt="Pink Ribbon Agent preview" width="360">
 
 Unofficial fan-made Codex terminal pet package.
 
