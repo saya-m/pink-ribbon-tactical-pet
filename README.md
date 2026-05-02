@@ -1,5 +1,7 @@
 # Pink Ribbon Tactical Pet
 
+![Pink Ribbon Agent preview](assets/preview.gif)
+
 Unofficial fan-made Codex terminal pet package.
 
 This project packages a small pink-ribbon tactical chibi companion designed for Codex-style terminal pet use.
